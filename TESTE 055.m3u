@@ -1,0 +1,12 @@
+#EXTM3U
+
+
+
+#EXTINF:0 tvg-logo="" group-title="",GLOBO
+http://217.69.1.200/loadbalance/globominas/chunks.m3u8?pxAuth=NRCN1bqdwUdVo8uMji9d5BJUEp5bStIe
+
+#EXTINF:0 tvg-logo="" group-title="",BAND
+http://cdn.whostreams.net:8081/wsedge/7456cu4c8xd7bb/chunks.m3u8?nimblesessionid=31482803&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDc6MjY6MjcgUE0maGFzaF92YWx1ZT0zRmJyNCtmSjV5aVd1SjAwcCt1b1dnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:0 tvg-logo="" group-title="",RECORD
+http://217.69.1.183/loadbalance/record2278/chunks.m3u8?pxAuth=zrrRSPAhdOPG0UiyAmPDY0FHKmRA6FX2
