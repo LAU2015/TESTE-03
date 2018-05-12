@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO">
+    <display-name lang="pt">GLOBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180512154800 -0300" stop="20180512183000 -0300" channel="GLOBO">
+    <title lang="pt">Caldeirão do Huck</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180512183000 -0300" stop="20180512191400 -0300" channel="GLOBO">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180512191400 -0300" stop="20180512193500 -0300" channel="GLOBO">
+    <title lang="pt">MG2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512193500 -0300" stop="20180512203000 -0300" channel="GLOBO">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180512203000 -0300" stop="20180512212000 -0300" channel="GLOBO">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512212000 -0300" stop="20180512230100 -0300" channel="GLOBO">
+    <title lang="pt">O Outro Lado do Paraíso</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180512230100 -0300" stop="20180512233700 -0300" channel="GLOBO">
+    <title lang="pt">Zorra</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180512233700 -0300" stop="20180513012800 -0300" channel="GLOBO">
+    <title lang="pt">Altas Horas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513012800 -0300" stop="20180513014600 -0300" channel="GLOBO">
+    <title lang="pt">Zero 1</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180513014600 -0300" stop="20180513034400 -0300" channel="GLOBO">
+    <title lang="pt">Supercine: O Maior Amor do Mundo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180513034400 -0300" stop="20180513054600 -0300" channel="GLOBO">
+    <title lang="pt">Corujão: A Busca</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180513054600 -0300" stop="20180513064700 -0300" channel="GLOBO">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513064700 -0300" stop="20180513071500 -0300" channel="GLOBO">
+    <title lang="pt">Globo Horizonte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513071500 -0300" stop="20180513075100 -0300" channel="GLOBO">
+    <title lang="pt">Pequenas Empresas, Grandes Negócios</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513075100 -0300" stop="20180513083900 -0300" channel="GLOBO">
+    <title lang="pt">Globo Rural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513083900 -0300" stop="20180513090000 -0300" channel="GLOBO">
+    <title lang="pt">Auto Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513090000 -0300" stop="20180513101000 -0300" channel="GLOBO">
+    <title lang="pt">Esporte Espetacular</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513101000 -0300" stop="20180513120000 -0300" channel="GLOBO">
+    <title lang="pt">Fórmula 1</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180513120000 -0300" stop="20180513124500 -0300" channel="GLOBO">
+    <title lang="pt">Esporte Espetacular</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513124500 -0300" stop="20180513140600 -0300" channel="GLOBO">
+    <title lang="pt">Tamanho Família</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513140600 -0300" stop="20180513160000 -0300" channel="GLOBO">
+    <title lang="pt">Temperatura Máxima: Minha Mãe é uma Peça</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180513160000 -0300" stop="20180513180000 -0300" channel="GLOBO">
+    <title lang="pt">Futebol 2018</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180513180000 -0300" stop="20180513210000 -0300" channel="GLOBO">
+    <title lang="pt">Domingão do Faustão</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513210000 -0300" stop="20180513232000 -0300" channel="GLOBO">
+    <title lang="pt">Fantástico</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513232000 -0300" stop="20180514011200 -0300" channel="GLOBO">
+    <title lang="pt">Domingo Maior: Sabotagem</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180512163000 -0300" stop="20180512183500 -0300" channel="BAND">
+    <title lang="pt">Fórmula Indy: GP de Indianápolis/EUA - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180512183500 -0300" stop="20180512185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512185000 -0300" stop="20180512192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512192000 -0300" stop="20180512202500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512202500 -0300" stop="20180512211000 -0300" channel="BAND">
+    <title lang="pt">Amor Proibido</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180512211000 -0300" stop="20180512215700 -0300" channel="BAND">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180512215700 -0300" stop="20180512220000 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180512220000 -0300" stop="20180512220500 -0300" channel="BAND">
+    <title lang="pt">Miss - Boletim</title>
+    <category lang="pt">Espetáculo/Diversos</category>
+  </programme>
+  <programme start="20180512220500 -0300" stop="20180512223000 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512223000 -0300" stop="20180512233000 -0300" channel="BAND">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20180512233000 -0300" stop="20180513014000 -0300" channel="BAND">
+    <title lang="pt">Amaury Jr</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513014000 -0300" stop="20180513033000 -0300" channel="BAND">
+    <title lang="pt">Cinema Na Madrugada: Veia De Lutador</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180513033000 -0300" stop="20180513050000 -0300" channel="BAND">
+    <title lang="pt">Cinema na Madrugada: Pânico no Lago 2</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180513050000 -0300" stop="20180513052000 -0300" channel="BAND">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180513052000 -0300" stop="20180513055000 -0300" channel="BAND">
+    <title lang="pt">Terminadores</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180513055000 -0300" stop="20180513060000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513060000 -0300" stop="20180513063000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <category lang="pt">Variedades/Culinária</category>
+  </programme>
+  <programme start="20180513063000 -0300" stop="20180513070000 -0300" channel="BAND">
+    <title lang="pt">Terraviva Sustentável</title>
+    <category lang="pt">Variedades/Meio Ambiente</category>
+  </programme>
+  <programme start="20180513070000 -0300" stop="20180513073000 -0300" channel="BAND">
+    <title lang="pt">AgroBand</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513073000 -0300" stop="20180513080000 -0300" channel="BAND">
+    <title lang="pt">Somos Agro</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513080000 -0300" stop="20180513083000 -0300" channel="BAND">
+    <title lang="pt">Depois das Chuteiras</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180513083000 -0300" stop="20180513090000 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513090000 -0300" stop="20180513093000 -0300" channel="BAND">
+    <title lang="pt">Resenha</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513093000 -0300" stop="20180513100000 -0300" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513100000 -0300" stop="20180513103000 -0300" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513103000 -0300" stop="20180513110000 -0300" channel="BAND">
+    <title lang="pt">Pé na Estrada</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513110000 -0300" stop="20180513120000 -0300" channel="BAND">
+    <title lang="pt">Santa Missa - Catedral da Sé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513120000 -0300" stop="20180513123000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180513123000 -0300" stop="20180513130000 -0300" channel="BAND">
+    <title lang="pt">Show do Mei</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513130000 -0300" stop="20180513140000 -0300" channel="BAND">
+    <title lang="pt">Band Esporte Clube</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513140000 -0300" stop="20180513150000 -0300" channel="BAND">
+    <title lang="pt">Só Risos</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180513150000 -0300" stop="20180513210000 -0300" channel="BAND">
+    <title lang="pt">Agora É Com Datena</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513210000 -0300" stop="20180514000000 -0300" channel="BAND">
+    <title lang="pt">Show do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180512150000 -0300" stop="20180512164500 -0300" channel="RECORD">
+    <title lang="pt">Cine Aventura: Um Passe de Mágica</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180512164500 -0300" stop="20180512194500 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta Especial</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512194500 -0300" stop="20180512203000 -0300" channel="RECORD">
+    <title lang="pt">Jornal da Record Especial</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512203000 -0300" stop="20180512221500 -0300" channel="RECORD">
+    <title lang="pt">José do Egito</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180512221500 -0300" stop="20180513003000 -0300" channel="RECORD">
+    <title lang="pt">Programa da Sabrina</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180513003000 -0300" stop="20180513011500 -0300" channel="RECORD">
+    <title lang="pt">Chicago P.D.</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180513011500 -0300" stop="20180513020000 -0300" channel="RECORD">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513020000 -0300" stop="20180513023000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513023000 -0300" stop="20180513024500 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513024500 -0300" stop="20180513031500 -0300" channel="RECORD">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180513031500 -0300" stop="20180513034500 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513034500 -0300" stop="20180513041500 -0300" channel="RECORD">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513041500 -0300" stop="20180513044500 -0300" channel="RECORD">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513044500 -0300" stop="20180513051500 -0300" channel="RECORD">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513051500 -0300" stop="20180513053000 -0300" channel="RECORD">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513053000 -0300" stop="20180513060000 -0300" channel="RECORD">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513060000 -0300" stop="20180513070000 -0300" channel="RECORD">
+    <title lang="pt">Santo Culto em seu Lar</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513070000 -0300" stop="20180513080000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513080000 -0300" stop="20180513090000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513090000 -0300" stop="20180513110000 -0300" channel="RECORD">
+    <title lang="pt">Record Kids</title>
+    <category lang="pt">Infantil/Desenho</category>
+  </programme>
+  <programme start="20180513110000 -0300" stop="20180513130000 -0300" channel="RECORD">
+    <title lang="pt">Show de Humor</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180513130000 -0300" stop="20180513153000 -0300" channel="RECORD">
+    <title lang="pt">Domingo Show</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180513153000 -0300" stop="20180513193000 -0300" channel="RECORD">
+    <title lang="pt">Hora do Faro</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180513193000 -0300" stop="20180513231500 -0300" channel="RECORD">
+    <title lang="pt">Domingo Espetacular</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513231500 -0300" stop="20180514001500 -0300" channel="RECORD">
+    <title lang="pt">Câmera Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+</tv>
